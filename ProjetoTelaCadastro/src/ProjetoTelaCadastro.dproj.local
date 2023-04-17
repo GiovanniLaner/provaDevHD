@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/15 14:55:16.000.633,=C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 14:56:13.000.289,=C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 15:21:36.622,=C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 15:22:21.818,C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\ProjetoTelaCadastro.dproj=C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/15 15:24:27.721,C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\ProjetoTelaCadastro\src\frmTelaCadastro.dfm=C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/15 15:24:27.721,C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\ProjetoTelaCadastro\src\frmTelaCadastro.pas=C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 15:24:30.382,C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\ProjetoTelaCadastro\src\ProjetoTelaCadastro.dproj=C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\ProjetoTelaCadastro.dproj</Transaction>
+    <Transaction>2023/04/15 17:36:47.731,=C:\Users\Giovanni\Documents\Embarcadero\Studio\Projects\ProjetoTelaCadastro\src\ModelSupport_ProjetoTelaCadastro\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
